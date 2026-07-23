@@ -1,0 +1,81 @@
+{
+  "Angry_(mood)": {
+    "title": "Angry Mood",
+    "description": "Songs for an angry mood",
+    "cover": "cover.jpg",
+    "songs": [
+      "Killing in the Name.mp3",
+      "Limp Bizkit .mp3"
+    ]
+  },
+  "Bright_(mood)": {
+    "title": "Bright Mood",
+    "description": "Songs for a bright mood",
+    "cover": "cover.jpg",
+    "songs": [
+      "Golden.mp3",
+      "hell.mp3"
+    ]
+  },
+  "Chill_(mood)": {
+    "title": "Chill Vibes",
+    "description": "Relaxing and chill beats",
+    "cover": "cover.jpg",
+    "songs": [
+      "Echo Location.mp3",
+      "Sunflower.mp3"
+    ]
+  },
+  "cs": {
+    "title": "CS Playlist",
+    "description": "My CS Songs",
+    "cover": "cover.jpg",
+    "songs": [
+      "no1d.mp3"
+    ]
+  },
+  "Dark_(mood)": {
+    "title": "Dark Mood",
+    "description": "Songs for a dark mood",
+    "cover": "cover.jpg",
+    "songs": [
+      "lovely.mp3",
+      "Rwanda_2.mp3"
+    ]
+  },
+  "Funky_(mood)": {
+    "title": "Funky Mood",
+    "description": "Let's get funky",
+    "cover": "cover.jpg",
+    "songs": [
+      "Substitution (1).mp3",
+      "UptownAud2.mp3"
+    ]
+  },
+  "Love_(mood)": {
+    "title": "Love Mood",
+    "description": "Romantic love songs",
+    "cover": "cover.jpg",
+    "songs": [
+      "DRPaud.mp3",
+      "found you.mp3"
+    ]
+  },
+  "ncs": {
+    "title": "NCS Releases",
+    "description": "No Copyright Sounds",
+    "cover": "cover.jpg",
+    "songs": [
+      "ON TIME.mp3"
+    ]
+  },
+  "Uplifting_(mood)": {
+    "title": "Uplifting Mood",
+    "description": "Motivational and uplifting",
+    "cover": "cover.jpg",
+    "songs": [
+      "Hall Of Fame.mp3",
+      "Unstoppable.mp3"
+    ]
+  }
+}

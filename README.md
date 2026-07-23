@@ -6,9 +6,7 @@ This project recreates the look and basic functionality of a modern music stream
 
 ## 🌐 Live Demo
 
-🚀 [View Live Project](YOUR-LIVE-WEBSITE-LINK-HERE)
-
-> Replace the link above with your deployed website URL after deployment.
+🚀 [View Live Project](https://spotify-beta-six.vercel.app/)
 
 ## ✨ Features
 
